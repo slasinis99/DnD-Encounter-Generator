@@ -9,3 +9,7 @@ In the Python file **main.py**, you can type the name of the monster to be added
 
 ## Creating the PDF
 Once you have a list of monsters and a name for your encounter, you can run the **build_encounter** method making sure to fill in the **encounter_name** and **monster_list** parameters. Running the script will then produce **main.pdf**. An example of the final product can be found in the repository.
+
+
+## Note
+Now that you have some monsters stored in the save file, you do not need to retype the stat block ever again. That is, as your compendium of stat blocks grows in size, the time spent creating encounters will greatly diminish. This works excellently if you know your players will come up against the same types of enemies in several encounters, but do not want to flip between a million pages in the middle of combat to find their respective stat blocks.
